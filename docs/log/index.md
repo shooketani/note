@@ -4,6 +4,8 @@
 
 ## 一覧
 
-|リンク|やったこと|
-|---|---|
-|[20221021](https://shooketani.github.io/note/log/20221021)|メモ環境構築|
+|リンク|やったこと|作業時間(分)|
+|---|---|---|
+|[20221021](https://shooketani.github.io/note/log/20221021)|メモ環境構築|180|
+|[20221023](https://shooketani.github.io/note/log/20221023)||60|
+
