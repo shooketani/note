@@ -8,4 +8,4 @@
 |---|---|---|
 |[20221021](https://shooketani.github.io/note/log/20221021)|メモ環境構築|180|
 |[20221023](https://shooketani.github.io/note/log/20221023)|TERASOLUNAのチュートリアルの環境構築|60|
-
+|[20221026](https://shooketani.github.io/note/log/20221026)|TERASOLUNAのチュートリアルの環境構築、||
