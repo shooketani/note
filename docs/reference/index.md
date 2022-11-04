@@ -11,3 +11,4 @@
 - [Chaos Engineering論文](https://arxiv.org/ftp/arxiv/papers/1702/1702.05843.pdf)
 - [FIS(Fault Injection Simulator) 機能調査](https://www.nri-digital.jp/tech/20210521-4733/)
 - [カオスエンジニアリングの過去と今](https://zenn.dev/hodagi/articles/3ce6ccdb00538c)
+- [O'Relly カオスエンジニアリング](https://www.oreilly.co.jp/books/9784873119885/)
