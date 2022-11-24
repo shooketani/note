@@ -30,17 +30,17 @@
   - Cloud platforms
 - 以下のinjecting failureをGUIのダッシュボードから発生させることができる [Gremlin Docs Attacks](https://www.gremlin.com/docs/fault-injection/attacks/)
 - ただし、無料版？だと制限がありそう。。
-  - CPU:Generates high load for one or more CPU cores.
-  - Disk:Writes files to disk to fill it to a specific percentage.
-  - IO:Puts read/write pressure on I/O devices such as hard disks.
-  - Memory:Allocates a specific amount of RAM.
-  - ProcessKiller:Kills the specified process, which can be used to simulate application or dependency crashes. Note: Process attacks do not work for Process ID 1, consider a Shutdown attack instead.
-  - Shutdown:Performs a shutdown (and an optional reboot) on the host operating system to test how your system behaves when losing one or more cluster machines.
-  - TimeTravel:Changes the host's system time, which can be used to simulate adjusting to daylight saving time and other time-related events.
-  - Blackhole:Drops all matching network traffic.
-  - DNS:Blocks access to DNS servers.
-  - Latency:Injects latency into all matching egress network traffic.
-  - PacketLoss:Induces packet loss into all matching egress network traffic.
+  - CPU: Generates high load for one or more CPU cores.
+  - Disk: Writes files to disk to fill it to a specific percentage.
+  - IO: Puts read/write pressure on I/O devices such as hard disks.
+  - Memory: Allocates a specific amount of RAM.
+  - ProcessKiller: Kills the specified process, which can be used to simulate application or dependency crashes. Note: Process attacks do not work for Process ID 1, consider a Shutdown attack instead.
+  - Shutdown: Performs a shutdown (and an optional reboot) on the host operating system to test how your system behaves when losing one or more cluster machines.
+  - TimeTravel: Changes the host's system time, which can be used to simulate adjusting to daylight saving time and other time-related events.
+  - Blackhole: Drops all matching network traffic.
+  - DNS: Blocks access to DNS servers.
+  - Latency: Injects latency into all matching egress network traffic.
+  - PacketLoss: Induces packet loss into all matching egress network traffic.
 
 #### 比較表
 
