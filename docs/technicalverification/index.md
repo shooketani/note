@@ -44,3 +44,10 @@
 
 #### 製品比較資料
 - [カオスツールの選び方](https://dwp.nttdata.com/document/document-3706ab3013970fe400088cb5b88cf3a8-01UXZOCZ5G2YQM6GGEIJDJVYC52UZ3YZJ2) （※NTTD内リンクのため注意）
+
+#### 使用する製品について
+- AWS Fault Injection Simulatorを中心に使用し、場合によってはChaos MeshやLitmusも使用できそうであれば使用してみる。
+- Gremlinは年間契約が必要のため使用しない。
+- 検証環境を構築する上での考慮点
+  - AWS Fault Injection Simulatorを最大限に活用するために、「ECS」、「EKS」、「RDS」は極力利用する。
+  - Chaos MeshやLitmusも使用できるように、コンテナは可能な限りKubernetes（EKS）を使用する。
