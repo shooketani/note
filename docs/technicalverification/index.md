@@ -42,4 +42,5 @@
   - Latency: Injects latency into all matching egress network traffic.
   - PacketLoss: Induces packet loss into all matching egress network traffic.
 
-### 検証環境
+#### 製品比較資料
+- [カオスツールの選び方](https://dwp.nttdata.com/document/document-3706ab3013970fe400088cb5b88cf3a8-01UXZOCZ5G2YQM6GGEIJDJVYC52UZ3YZJ2) （※NTTD内リンクのため注意）
