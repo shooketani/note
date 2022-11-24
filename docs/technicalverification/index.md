@@ -42,6 +42,4 @@
   - Latency: Injects latency into all matching egress network traffic.
   - PacketLoss: Induces packet loss into all matching egress network traffic.
 
-#### 比較表
-
 ### 検証環境
