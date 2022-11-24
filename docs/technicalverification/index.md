@@ -29,7 +29,7 @@
   - Windows
   - Cloud platforms
 - 以下のinjecting failureをGUIのダッシュボードから発生させることができる [Gremlin Docs Attacks](https://www.gremlin.com/docs/fault-injection/attacks/)
-- ただし、無料版？だと制限がありそう。。
+- ただし、無料版？だと制限がありそう。。正式版は年間契約のみで年500万～1000万以上だそう。。
   - CPU: Generates high load for one or more CPU cores.
   - Disk: Writes files to disk to fill it to a specific percentage.
   - IO: Puts read/write pressure on I/O devices such as hard disks.
