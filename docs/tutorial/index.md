@@ -3,6 +3,8 @@
 
 ## AWS ECS上に構築するSpringアプリケーション
 
+[AWS構成図_チュートリアル.pptx](https://github.com/shooketani/note/files/10217164/AWS._.pptx)
+
 ### XXXXX
 - [VPC](https://shooketani.github.io/note/tutorial/vpc)
 - [target group](https://shooketani.github.io/note/tutorial/tg)
