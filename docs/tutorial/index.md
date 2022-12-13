@@ -14,4 +14,4 @@
 - [internet gateway](https://shooketani.github.io/note/tutorial/igw)
 - [Elastic Load Balancing](https://shooketani.github.io/note/tutorial/elb)
 - [Elastic IP](https://shooketani.github.io/note/tutorial/eip)
-- [ecs cluster](https://shooketani.github.io/note/tutorial/ecs)
+- [ECS cluster](https://shooketani.github.io/note/tutorial/ecs)
