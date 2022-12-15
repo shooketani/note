@@ -19,7 +19,7 @@
 - [Elastic IP](https://shooketani.github.io/note/tutorial/eip)
 - [ECS cluster](https://shooketani.github.io/note/tutorial/ecs)
 
-### アプリケーション資源
+### アプリケーション
 - 作成したJavaソースは[GitHub](https://github.com/shooketani/ecs-sample)上にコミット
 - 上記のJavaソースはDocker上で動作するようになっており、Docker ImageをDockeHub上にコミット
   - [shooketani/ecs-sample-backend-for-frontend](https://hub.docker.com/repository/docker/shooketani/ecs-sample-backend-for-frontend)
