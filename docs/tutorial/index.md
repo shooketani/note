@@ -24,3 +24,17 @@
 - 上記のJavaソースはDocker上で動作するようになっており、Docker ImageをDockeHub上にコミット
   - [shooketani/ecs-sample-backend-for-frontend](https://hub.docker.com/repository/docker/shooketani/ecs-sample-backend-for-frontend)
   - [shooketani/ecs-sample-backend](https://hub.docker.com/repository/docker/shooketani/ecs-sample-backend)　
+- アプリケーションは以下のような画面遷移をする
+  - 「 Call backend service」を押下すると、ecs-sample-backendで起動しているAPIへリクエストし、レスポンス結果を画面表示する
+
+![image](https://user-images.githubusercontent.com/116000206/207867749-0e3f5536-793c-450f-af16-957cb08e4572.png)
+![image](https://user-images.githubusercontent.com/116000206/207867764-9d7be5f0-5fe1-459f-944a-faf1b8a6cec3.png)
+
+- ecs-sample-backendのAPIへ直接リクエストした結果は以下の通り。
+
+```
+C:\Users\Sho>curl localhost:8080/backend/api/v1/users
+[{"userId":"1","userName":"Sho"},{"userId":"2","userName":"Ken"}]
+C:\Users\Sho>
+```
+
