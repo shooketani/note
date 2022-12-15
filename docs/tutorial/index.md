@@ -6,7 +6,7 @@
 [AWS構成図_チュートリアル.pptx](https://github.com/shooketani/note/files/10217164/AWS._.pptx)
 
 ### AWS構成図
-<iframe src="https://nttdatajpprod-my.sharepoint.com/personal/sho_oketani_jp_nttdata_com/_layouts/15/Doc.aspx?sourcedoc={75ef49c8-ab4e-4e30-814f-ad95df5777c7}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="487px" height="288px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://nttdatajpprod-my.sharepoint.com/personal/sho_oketani_jp_nttdata_com/_layouts/15/Doc.aspx?sourcedoc={75ef49c8-ab4e-4e30-814f-ad95df5777c7}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="714px" height="432px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### AWSリソース一覧
 - [VPC](https://shooketani.github.io/note/tutorial/vpc)
