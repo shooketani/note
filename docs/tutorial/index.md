@@ -38,3 +38,19 @@ C:\Users\Sho>curl localhost:8080/backend/api/v1/users
 C:\Users\Sho>
 ```
 
+
+### AWS上での起動
+- publicとprivateのECSで、それぞれ2インスタンスずつ起動した際のAWSコンソールは以下の通り。
+
+![image](https://user-images.githubusercontent.com/116000206/208639699-5c755bdf-9d66-41be-afbc-159affb62bf6.png)
+![image](https://user-images.githubusercontent.com/116000206/208640068-cba36dce-c5f7-49c5-9c54-566ebec4b466.png)
+![image](https://user-images.githubusercontent.com/116000206/208640191-52651968-51e5-43bb-9e1e-70da83b70ebc.png)
+
+- ブラウザからも問題なく接続できたことを確認。
+  - [http://ma-oketanisu-alb-public-1498014606.ap-northeast-1.elb.amazonaws.com/backend-for-frontend/index.html](http://ma-oketanisu-alb-public-1498014606.ap-northeast-1.elb.amazonaws.com/backend-for-frontend/index.html)
+  
+![image](https://user-images.githubusercontent.com/116000206/208640388-d4275c15-899c-4840-a811-50d932c80195.png)
+![image](https://user-images.githubusercontent.com/116000206/208640415-59fc6dd8-ed65-4249-b244-6f0860ec6963.png)
+
+
+
