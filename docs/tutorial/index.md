@@ -52,5 +52,10 @@ C:\Users\Sho>
 ![image](https://user-images.githubusercontent.com/116000206/208640388-d4275c15-899c-4840-a811-50d932c80195.png)
 ![image](https://user-images.githubusercontent.com/116000206/208640415-59fc6dd8-ed65-4249-b244-6f0860ec6963.png)
 
+- Cloud WatchにてRequestCountを確認したところ、うまく分散されていることを確認。
+- ラウンドロビン方式のため、リクエストが均等に分散されている。
 
+![image](https://user-images.githubusercontent.com/116000206/208644812-5ea39557-6b96-4ed1-aeeb-d17eea2c7a45.png)
+![image](https://user-images.githubusercontent.com/116000206/208644840-4670679c-f20d-41a0-aa11-69ca91e04a7e.png)
+![image](https://user-images.githubusercontent.com/116000206/208644862-f5e382eb-4184-4ee4-a329-a37ff5309f88.png)
 
