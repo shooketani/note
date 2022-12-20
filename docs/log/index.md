@@ -17,4 +17,5 @@
 |[20221117](https://shooketani.github.io/note/log/20221117)|クラウドネイティブアプリケーションの基本 第1回～第2回|60|
 |[20221122](https://shooketani.github.io/note/log/20221122)|クラウドネイティブアプリケーションの基本 AWSリソース作成|60|
 |[20221209](https://shooketani.github.io/note/log/20221209)|クラウドネイティブアプリケーションの基本 アプリ実装|120|
-|[20221212](https://shooketani.github.io/note/log/20221212)|クラウドネイティブアプリケーションの基本 DockerHubへのpush||
+|[20221212](https://shooketani.github.io/note/log/20221212)|クラウドネイティブアプリケーションの基本 DockerHubへのpush|120|
+|[20221220](https://shooketani.github.io/note/log/20221220)|クラウドネイティブアプリケーションの基本 トラブルシューティング|180|
