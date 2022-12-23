@@ -59,3 +59,8 @@ C:\Users\Sho>
 ![image](https://user-images.githubusercontent.com/116000206/208644840-4670679c-f20d-41a0-aa11-69ca91e04a7e.png)
 ![image](https://user-images.githubusercontent.com/116000206/208644862-f5e382eb-4184-4ee4-a329-a37ff5309f88.png)
 
+### トラブルシューティング
+- 環境構築中に実施したトラブルシューティングを取り纏める。
+  - [ERROR: cannot verify repos.fedorapeople.org's certificate](https://github.com/shooketani/note/blob/main/docs/log/20221209.md)
+  - [[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin](https://github.com/shooketani/note/blob/main/docs/log/20221209.md)
+  - [private subnetのインスタンスへの接続ができない](https://shooketani.github.io/note/log/20221220)
