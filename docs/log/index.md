@@ -19,3 +19,4 @@
 |[20221209](https://shooketani.github.io/note/log/20221209)|クラウドネイティブアプリケーションの基本 アプリ実装|120|
 |[20221212](https://shooketani.github.io/note/log/20221212)|クラウドネイティブアプリケーションの基本 DockerHubへのpush|120|
 |[20221220](https://shooketani.github.io/note/log/20221220)|クラウドネイティブアプリケーションの基本 トラブルシューティング|180|
+|[20230105](https://shooketani.github.io/note/log/20230105)||60|
